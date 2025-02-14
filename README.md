@@ -1,6 +1,11 @@
 # DSSA-5102_DGW
 Data Gathering and Warehousing - Spring 2025
 
+Dataset name: Indicators of Anxiety or Depression Based on Reported Frequency of Symptoms During Last 7 Days
+Company/Government Organization: National Center for Health Statistics
+Download link: https://data.cdc.gov/NCHS/Indicators-of-Anxiety-or-Depression-Based-on-Repor/8pt5-q6wp/about_data
+Date of Access: 2/13/25
+
 Where is the data from?: ​ The data is from the National Center for Health Statistics and published by the Centers for Disease Control and Prevention. The data was first collected 4/23/20 and last updated 9/16/24, as of the date of access 2/13/25. The data is a csv file.
 
 National Center for Health Statistics. Indicators of Anxiety or Depression Based on Reported Frequency of Symptoms During Last 7 Days. Data accessed 2/13/25. Available from: https://data.cdc.gov/d/8pt5-q6wp.
